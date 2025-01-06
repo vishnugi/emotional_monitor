@@ -101,4 +101,4 @@ Processor: Quad-Core 2.5 GHz or higher
 GPU: Recommended for faster computations (optional)
 Software:
 Python 3.8 or higher
-Jupyter Notebook or any Python IDE for running the code
+VScode or any Python IDE for running the code
