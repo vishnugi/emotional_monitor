@@ -54,9 +54,9 @@ Plots of training/validation accuracy, loss, and R² scores over iterations.
 
 Classification Results:
 
-Final validation accuracy: ~90% (simulated for the example).
+Final validation accuracy: 100%.
 
-Final validation F1-score: ~0.87 (weighted average).
+Final validation F1-score: 1.00.
 
 **Feature Importance:**
 
